@@ -5,6 +5,7 @@ An M.Sc. adventure in Statistics 🎓 and totally stoked about diving into the d
 I believe that each data point has a story to tell, and I'm here to craft those stories into captivating visuals that make patterns and trends leap off the screen.
 
 I'm committed to continue learning pursuing relevant cources like 📊 Data Analytics Certificates to enhance my technical skills. 
+
 With keen attention to detail and pattern recognition abilities, I approch problem-solving meticulously. I'm excited to bring these skills to the data analyst role.
 
 
